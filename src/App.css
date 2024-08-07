@@ -1,0 +1,12 @@
+body{
+    background-color: gray;
+}
+.container{
+    margin: 30px auto;
+    max-width: 500px;
+    overflow: auto;
+    min-height: 300px;
+    border: 2px solid rgb(72, 255, 0);
+    padding: 30px;
+    border-radius: 10px;
+}
