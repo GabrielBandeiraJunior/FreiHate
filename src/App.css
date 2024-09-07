@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(80, 79, 79);
+
+}
+.container{
+    margin: 30px auto;
+    margin-top: 15px;
+    max-width: 900px;/*largura*/
+    overflow: auto;
+    min-height: 90px;/*altura*/
+    border: 2px solid #ffffff;
+    padding: 30px;
+    border-radius: 10px;
+    background-color: #ffffff;
+}
+.grandetitulo{
+    text-align: center;
+    /* line-height: center; */
+    font-size: x-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}

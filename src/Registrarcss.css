@@ -1,0 +1,18 @@
+
+.MainContainer{ 
+    display: flex;
+    justify-content: space-around; /* Espaço igual ao redor dos contêineres */
+    padding: 20px;
+  }
+
+  .Container {
+    border: 2px solid white; /* Borda branca */
+    padding: 20px;
+    width: 45%; /* Ajuste a largura conforme necessário */
+    box-sizing: border-box; /* Inclui padding e borda no cálculo da largura */
+    background-color: rgb(41, 40, 40);/* Exemplo de cor de fundo para melhor visibilidade */
+  }
+
+  .Container + .Container {
+    margin-left: 20px;
+  }
